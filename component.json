@@ -1,0 +1,8 @@
+{
+  "name": "logo",
+  "repo": "logo/logo",
+  "version": "0.0.0",
+  "license": "MIT",
+  "description": "A CSS component that makes it super trivial to include resolution-independent logos on your website.",
+  "styles": ["index.css"]
+}
