@@ -1,4 +1,3 @@
-
 # logo
 
   Easily include a logo on your site without editing images.
@@ -39,7 +38,7 @@
 
     $ npm install -g logo/logo
 
-#### logo create <name>
+#### logo create \<name\>
 
   Create a new logo repository named `name`. The CLI will prompt you for all the required information and then generate the repo's folder.
 
@@ -51,7 +50,7 @@
 
 The MIT License (MIT)
 
-  Copyright (c) 2014 &lt;friends@segment.io&gt;
+  Copyright (c) 2014 \<friends@segment.io\>
 
   Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
   
