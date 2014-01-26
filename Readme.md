@@ -42,7 +42,7 @@
 
   Create a new logo repository named `name`. The CLI will prompt you for all the required information and then generate the repo's folder.
 
-#### logo size
+#### logo resize
 
   Automatically determine the CSS `width` property of the logo based on the CSS margins and the `.svg` file dimensions. This command will update the `index.css` file with the newly computed `width`. That way you can you just edit the margins as you please, and you don't have to keep doing tedious math to keep the width in sync.
 
