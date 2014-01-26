@@ -3,6 +3,6 @@
   "repo": "logo/logo",
   "version": "0.0.0",
   "license": "MIT",
-  "description": "A CSS component that makes it super trivial to include resolution-independent logos on your website.",
+  "description": "Easily include a logo on your site without editing images.",
   "styles": ["index.css"]
 }
