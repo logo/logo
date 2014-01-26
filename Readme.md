@@ -48,7 +48,7 @@
 
 ## License
 
-The MIT License
+  The MIT License
 
   Copyright &copy; 2014 \<friends@segment.io\>
 
