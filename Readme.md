@@ -34,9 +34,7 @@
 
 ## CLI
 
-  This repository also holds a CLI that makes working with the logos easier. You can install it with:
-
-    $ npm install -g logo/logo
+  Check out the [CLI](https://github.com/logo/cli) to make working with the logo repositories and files easier.
 
 #### logo create \<name\>
 
