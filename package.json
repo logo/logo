@@ -1,0 +1,11 @@
+{
+  "name": "logo-component",
+  "version": "0.0.1",
+  "description": "Easily include a logo on your site without editing images.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/logo/logo.git"
+  },
+  "license": "MIT"
+}
